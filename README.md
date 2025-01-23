@@ -55,4 +55,4 @@ Work-stealing is a dynamic scheduling algorithm where idle worker threads "steal
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Work-Stealing-DAG-MergeSort.git
+   git clone https://github.com/Kishore-09/Work-Stealing-DAG-MergeSort.git
